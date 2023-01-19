@@ -1,10 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
 featured_image: '/img/DTnavyvertical2.png'
-menu:
-  main:
-    weight: 1
+featured_image_title: 'this is the image title'
+
 ---
 {{< figure src="/img/DTnavyvertical2.png" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
