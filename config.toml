@@ -1,9 +1,98 @@
-baseURL = 'https://lively-bay-0e10f701e.2.azurestaticapps.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site - dkk'
-theme = "ananke"
+baseURL = "https://lively-bay-0e10f701e.2.azurestaticapps.net/"
+languageCode = "en-us"
+title = "Deepwater Technologies"
+theme = "timer"
+# post pagination
+paginate = "2" # see https://gohugo.io/extras/pagination/
 
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
+# Navbar Menus
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+color = "white"
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Service"
+url = "works/"
+weight = 3
+
+[[menu.main]]
+name = "Gallery"
+url = "gallery/"
+weight = 4
+
+[[menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 5 
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+# Site Params
 [params]
-  site_logo = "img/DTnavyhorizontal.png"
-  omit_header_text="true"
+home = "Home"
+logo = "img/DTnavyhorizontal.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Deepwater Technologies"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable = true
+bgImage = "img/20210205_230219839_iOS.jpg"
+heading = "HI, MY NAME IS DAN & I AM A"
+description = "WITH MORE THAN 20 YEARS EXPERIENCE, I'VE BUILT CUSTOM SOFTWARE FOR LARGE AND SMALL COMPANIES ALIKE. I BRING WIDLEY VARIED EXPERIENCE TO HELP YOU STEAL BACK TIME TO FOCUS ON YOUR BUSINESS."
+# button
+btn = false
+btnText = "Download More"
+btnURL = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title = "DEVELOPER"
+[[params.banner.flipText]]
+title = "GOOFBALL"
+[[params.banner.flipText]]
+title = "TIME SAVER"
+
+# Homepage About Section
+[params.about]
+enable = true
+title = "ABOUT ME"
+content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. Now I live in Wenatchee WA and I really enjoy meeting the people who will use the software I build and working with them to build something that makes thier work life MUCH easier. <br> <br> I say above that I 'steal time' and it realy is true.  We all have repetative, unfufilling tasks that are requied in order to keep doing the things we enjoy at work.  Making software that allows a computer to handle those tasks litterally steals time back for doing the other important things that grow your business. <br> <br> I like to work closely with my customers. It starts with discussions about how the task works, identifying the your key parts, presenting ideas and iterating on those ideas until you like what you see.  Then we start building.  I try to release a new version of my software each week to a location you can see and click and assess. This way you are along for the ride and can provide input, not just getting postcards along the way. <br> <br>  Finally, in our world, things change.  I'm here for you.  I can update your software as your requierments change and as you identify more tasks that may be useful to automate."
+image = "img/20230119_213110067_iOS.jpg" 
+
+# Call to Action
+[params.cta]
+enable = true
+title = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable = true
+title = "WHAT I DO"
+subtitle = "I've found that when I tell people what I do, I often get some pretty blank stares.  Instead, let me paint you a few pictures I hope you can relate with."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "https://www.linkedin.com/in/daniel-kjobech-8a49048/"
