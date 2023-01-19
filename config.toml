@@ -2,4 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site - dkk'
 theme = "ananke"
-site-logo = "/content/DTnavyhorizontal.png"
+
+
+[params]
+  site_logo = "img/DTnavyhorizontal.png"
+  omit_header_text="true"
