@@ -9,11 +9,11 @@
             data-wow-duration="500ms">{{ . }}</h1>{{ end }}
             {{ with .Site.Params.cta.content }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">
               {{ . | safeHTML }}</p>{{ end }}
-            <a href="{{ .Site.Params.cta.linkEmail }}" class="wow fadeInDown"
-              data-wow-delay=".7s" data-wow-duration="500ms">{{ .Site.Params.cta.linkEmailText }}</a>
             <br>
-            <a href="{{ .Site.Params.cta.linkPhone }}" class="wow fadeInDown"
-              data-wow-delay=".7s" data-wow-duration="500ms">{{ .Site.Params.cta.linkPhoneText }}</a>
+            <strong>Phone: </strong>{{ .Site.Params.cta.linkPhoneText }}
+            <br>
+            <strong>Email:  </strong><a href="{{ .Site.Params.cta.linkEmail }}" class="wow fadeInDown"
+              data-wow-delay=".7s" data-wow-duration="500ms">{{ .Site.Params.cta.linkEmailText }}</a>
         </div>
       </div>
     </div>

@@ -81,10 +81,10 @@ image = "img/20230119_213110067_iOS.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "DO THOSE STORIES SOUND FAMILIAR? LET'S TALK"
+title = "DO THESE STORIES SOUND FAMILIAR? LET'S TALK"
 content = ""
 linkPhoneText = "509-881-8762"
-linkPhone = "tel:5098818762"
+linkPhone = "5098818762"
 linkEmailText = "dan@deepwatertechnologies.com"
 linkEmail = "mailto:dan@deepwatertechnologies.com"
 
