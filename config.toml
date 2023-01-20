@@ -55,7 +55,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "img/20230119_213110067_iOS.jpg"
+bgImage = "img/lake-large-small-small.jpg" 
 heading = "HI, MY NAME IS DAN & I AM A"
 description = "WITH MORE THAN 20 YEARS EXPERIENCE, I'VE BUILT CUSTOM SOFTWARE FOR LARGE AND SMALL COMPANIES ALIKE. I BRING WIDLEY VARIED EXPERIENCE TO HELP YOU STEAL BACK TIME TO FOCUS ON YOUR BUSINESS."
 # button
