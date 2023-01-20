@@ -81,10 +81,12 @@ image = "img/20230119_213110067_iOS.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL = "/contact"
+title = "DO THOSE STORIES SOUND FAMILIAR? LET'S TALK"
+content = ""
+linkPhoneText = "509-881-8762"
+linkPhone = "tel:5098818762"
+linkEmailText = "dan@deepwatertechnologies.com"
+linkEmail = "mailto:dan@deepwatertechnologies.com"
 
 # Portfolio Section On Homepage
 [params.portfolio]
