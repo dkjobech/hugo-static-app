@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:54:54+06:00
 description : "Released from Excel hell"
 caption: Online payroll
-image: img/DTnavyvertical2.png
+image: img/nanny.jpg
 category: ["Excel","automation"]
 liveLink: https://www.jenniferhorner.com
 client: Jennifer Horner

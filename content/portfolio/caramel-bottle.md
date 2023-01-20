@@ -1,10 +1,10 @@
 ---
-title: "Caramel Bottle"
+title: "Simple scheduling"
 type: portfolio
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
-caption: Product Design
-image: img/DTnavyvertical2.png
+caption: Scheduling
+image: img/bus.jpg
 category: ["product","mockup","design"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson

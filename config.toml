@@ -94,6 +94,10 @@ enable = true
 title = "WHAT I DO"
 subtitle = "I've found that when I tell people what I do, I often get some pretty blank stares.  Instead, let me paint you a few pictures I hope you can relate with."
 
+[params.service]
+enable = true
+title = "services stuff"
+
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-linkedin"

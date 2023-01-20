@@ -1,0 +1,24 @@
+{
+    "enable": "true",
+    "title": "Some nice people saying some nice things...",
+    "subtitle": "",
+    "image": "img/lake-large-small.jpg",
+    "item": [
+        {
+            "name": "Jennifer Horner",
+            "title": "CEO, JenniferHorner.com",
+            "description": "Dan automated the wage report filing and the tax payment steps, which freed up close to 120 hours quarterly and all but eliminated the likelihood of user error.",
+            "icon": "img/Jeff.jpg"
+        },
+        {
+            "name": "Jocelyn Kummer",
+            "title": "CEO ReadYourWorld.com",
+            "description": "As the contractor with the most influence on my project, Dan has delivered time and time again."
+        },
+        {
+            "name": "Jeff Webber",
+            "title": "President and CEO, Firefly and Legwork",
+            "description": "In every case, Dan has been quick to understand the business problem and apply creative, situation appropriate solutions with successful outcomes."
+        }
+    ]
+}
