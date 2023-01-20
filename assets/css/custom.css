@@ -49,3 +49,7 @@ nav a img{
 .work-single-content ul li{
     list-style:unset;
 }
+
+.global-page-header {
+    background: #309fdb;
+}
