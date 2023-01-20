@@ -46,7 +46,7 @@ logo = "img/DTnavyhorizontal.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Deepwater Technologies"
-author = "Themefisher"
+author = "Themefisher" 
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
