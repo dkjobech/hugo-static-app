@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:53:54+06:00
 description : "This is meta description"
 caption: Rebuild, improvement
-image: img/teacher.jpg
+image: img/student.jfif
 category: ["typography","letters"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson

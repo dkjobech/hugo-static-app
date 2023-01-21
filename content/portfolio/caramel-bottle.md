@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
 caption: Web automation
-image: img/bus.jpg
+image: img/bus3.jpg
 category: ["product","mockup","design"]
 liveLink: https://www.themefisher.com
 client: Julia Robertson
