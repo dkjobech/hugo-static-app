@@ -16,12 +16,12 @@ color = "white"
 
 [[menu.main]]
 name = "About"
-url = "about/"
+url = "./#about"
 weight = 2
 
 [[menu.main]]
 name = "Service"
-url = "works/"
+url = "#works"
 weight = 3
 
 [[menu.main]]
@@ -36,7 +36,7 @@ weight = 5
 
 [[menu.main]]
 name = "Contact"
-url = "contact/"
+url = "#contact" 
 weight = 6
 
 # Site Params
@@ -81,7 +81,7 @@ image = "img/20230119_213110067_iOS.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "DO THESE STORIES SOUND FAMILIAR? LET'S TALK"
+title = "DO THESE STORIES SOUND FAMILIAR? PERHAPS I CAN HELP"
 content = ""
 linkPhoneText = "509-881-8762"
 linkPhone = "5098818762"
