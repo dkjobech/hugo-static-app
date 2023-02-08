@@ -2,7 +2,7 @@
 <footer id="footer">
   <div class="container">
     <div class="row content-justify-between">
-      <div class="col-md-8 col-12 text-center text-lg-left text-md-left">
+      <div class="col-md-4 col-12 text-center text-lg-left text-md-left">
         <p class="copyright">Copyright:
           <span>
             <script>
@@ -13,10 +13,15 @@
       </div>
       <div class="col-md-4 col-12">
         {{ "<!-- Social Media -->" | safeHTML }}
-        <ul class="social text-center text-md-right text-lg-right">
+        <ul class="social text-center ">
           {{ range .Site.Params.socialIcon }}
           <li><a href="{{ .url | safeURL }}"><i class="{{ .icon }}"></i></a></li>
           {{ end }}
+        </ul>
+      </div>
+      <div class="col-md-4 col-12">
+        <ul class="text-center text-md-right text-lg-right">
+          <li><a class="footer-icon" href="https://icons8.com" target="_blank">icons by icons8</a></li>
         </ul>
       </div>
     </div>

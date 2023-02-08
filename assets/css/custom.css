@@ -55,11 +55,30 @@ nav a img{
 }
 
 #feature .icon {
-    background-color: #3095db;
+    background-color: #153a55;
 }
 
 figure figcaption h4 a{
     color: #3095db;
+}
+
+.img-fluid{
+    padding: 30px;
+}
+
+.icon img{
+    margin-bottom: 10px;
+}
+
+
+
+.footer-icon{
+    color: #000;
+    font-family: roboto,sans-serif;
+    line-height: 22px;
+    font-size: 13px;
+    margin-bottom: 0;
+    font-weight: 300;
 }
 
 @media only screen and (max-width:599px) {
@@ -71,5 +90,7 @@ figure figcaption h4 a{
 @media only screen and (min-width:559px) {
     #about .block img {
         max-width: 60%;
+        margin-left: 20px;
     }
 }
+

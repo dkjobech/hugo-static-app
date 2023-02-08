@@ -8,17 +8,21 @@
             "name": "Jennifer Horner",
             "title": "CEO, JenniferHorner.com",
             "description": "Dan automated the wage report filing and the tax payment steps, which freed up close to 120 hours quarterly and all but eliminated the likelihood of user error.",
-            "icon": "img/Jeff.jpg"
+            "icon": "https://img.icons8.com/ios/50/ffffff/christmas-star.png"
         },
         {
             "name": "Jocelyn Kummer",
             "title": "CEO ReadYourWorld.com",
-            "description": "As the contractor with the most influence on my project, Dan has delivered time and time again."
+            "description": "As the contractor with the most influence on my project, Dan has delivered time and time again.",
+            "icon": "https://img.icons8.com/ios/50/ffffff/christmas-star.png"
+
         },
         {
             "name": "Jeff Webber",
             "title": "President and CEO, Firefly and Legwork",
-            "description": "In every case, Dan has been quick to understand the business problem and apply creative, situation appropriate solutions with successful outcomes."
+            "description": "In every case, Dan has been quick to understand the business problem and apply creative, situation appropriate solutions with successful outcomes.",
+            "icon": "https://img.icons8.com/ios/50/ffffff/christmas-star.png"
+
         }
     ]
 }
