@@ -70,8 +70,6 @@ figure figcaption h4 a{
     margin-bottom: 10px;
 }
 
-
-
 .footer-icon{
     color: #000;
     font-family: roboto,sans-serif;
@@ -81,9 +79,13 @@ figure figcaption h4 a{
     font-weight: 300;
 }
 
-@media only screen and (max-width:599px) {
+@media only screen and (max-width:1000px) {
     nav a img {
         max-width: 100%;
+    }
+
+    .navbar-light .navbar-brand {
+        width: 70%
     }
 }
 

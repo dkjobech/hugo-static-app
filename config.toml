@@ -21,7 +21,7 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "Services"
 pre = "#"
 url = "works"
 weight = 3
@@ -70,7 +70,7 @@ title = "SANITY SAVER"
 [params.about]
 enable = true
 title = "ABOUT ME"
-content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now Ilive in Wenatchee WA, and really enjoy working with small to medium sized businesses where I get to meet the people who will use the software I build. Working with them to build something that makes their work life MUCH easier is what it’s all about. <br><br> When I say 'steal time', it really is true. We all have repetitive, necessary tasks that are part of running our business and, oftentimes, these can be very manual and time-consuming.  Making software that allows a computer to handle those tasks literally steals time back for you so you can focus on tasks that actually help  grow your business. <br><br> I like to work closely with my customers. It starts with discussions about how your business operates,  identifying key processes, presenting potential solutions, and iterating on those ideas until you like what you see. Once the initial design is complete,  we start building. I try to release a new version each week where you can see, click, and assess the software? Application?. You are along for the ride every step of the way , not just getting postcards from afar. <br><br> Finally, in our world, things change, sometimes quickly. I'm here for you. I can update your software as your requirements (needs?) change or if you identify more tasks that you’d like to automate."
+content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA, and really enjoy working with small to medium sized businesses where I get to meet the people who will use the software I build. Working with them to build something that makes their work life MUCH easier is what it’s all about. <br><br> When I say 'steal time', it really is true. We all have repetitive, necessary tasks that are part of running our business and, oftentimes, these can be very manual and time-consuming.  Making software that allows a computer to handle those tasks literally steals time back for you so you can focus on tasks that actually help  grow your business. <br><br> I like to work closely with my customers. It starts with discussions about how your business operates,  identifying key processes, presenting potential solutions, and iterating on those ideas until you like what you see. Once the initial design is complete,  we start building. I try to release a new version each week where you can see, click, and assess the software? Application?. You are along for the ride every step of the way , not just getting postcards from afar. <br><br> Finally, in our world, things change, sometimes quickly. I'm here for you. I can update your software as your requirements (needs?) change or if you identify more tasks that you’d like to automate."
 image = "img/20230119_213110067_iOS.jpg" 
 
 # Call to Action
