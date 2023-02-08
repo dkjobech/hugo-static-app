@@ -19,6 +19,10 @@
     background: rgba(21, 58, 85, .7);
 }
 
+.cd-headline.slide .cd-words-wrapper{
+    color: #309fdb;
+}
+
 .navbar .nav-item .nav-link {
     color: #ecf7fb !important;  
 }
