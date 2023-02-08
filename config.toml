@@ -50,11 +50,9 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = "img/lake-large-small.jpg" 
 heading = "HI, MY NAME IS DAN & I AM A"
-description = "WITH MORE THAN 25 YEARS EXPERIENCE, I'VE BUILT CUSTOM SOFTWARE FOR LARGE AND SMALL COMPANIES ALIKE. I BRING WIDELY VARIED EXPERIENCE TO HELP YOU STEAL BACK TIME TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
+description = "WITH MORE THAN 250 YEARS EXPERIENCE, I'VE BUILT CUSTOM SOFTWARE FOR LARGE AND SMALL COMPANIES ALIKE. I BRING WIDELEY VARIED EXPERIENCE TO HELP YOU TAKE BACK TIME TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
 # button
 btn = false
-btnText = "Download More"
-btnURL = "https://themefisher.com/"
 
 # flip text
 [[params.banner.flipText]]
@@ -65,18 +63,20 @@ title = "LISTENER"
 title = "PROBLEM SOLVER"
 [[params.banner.flipText]]
 title = "SANITY SAVER"
+[[params.banner.flipText]]
+title = "TIME GENERATOR"
 
 # Homepage About Section
 [params.about]
 enable = true
 title = "ABOUT ME"
-content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA, and really enjoy working with small to medium sized businesses where I get to meet the people who will use the software I build. Working with them to build something that makes their work life MUCH easier is what it’s all about. <br><br> When I say 'steal time', it really is true. We all have repetitive, necessary tasks that are part of running our business and, oftentimes, these can be very manual and time-consuming.  Making software that allows a computer to handle those tasks literally steals time back for you so you can focus on tasks that actually help  grow your business. <br><br> I like to work closely with my customers. It starts with discussions about how your business operates,  identifying key processes, presenting potential solutions, and iterating on those ideas until you like what you see. Once the initial design is complete,  we start building. I try to release a new version each week where you can see, click, and assess the software? Application?. You are along for the ride every step of the way , not just getting postcards from afar. <br><br> Finally, in our world, things change, sometimes quickly. I'm here for you. I can update your software as your requirements (needs?) change or if you identify more tasks that you’d like to automate."
+content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA, and really enjoy working with small to medium-sized businesses where I get to meet the people who will use the software I build. Working with them to build something that makes their work life MUCH easier is what it’s all about.<br><br>When I say 'take back time', it really is true. We all have repetitive, necessary tasks that are part of running our business and these can often be very manual and time-consuming.  Making software that allows a computer to handle those tasks literally gives you time back to focus on your priorities.<br><br>I like to work closely with my customers. It starts with discussions about how your business operates,  identifying key processes, presenting solutions, and iterating on those ideas until you like what you see. Once the design is complete, we start building.  I regularly release new versions so you can see, click, and assess the software. You are along for the ride every step of the way, not just getting postcards in the mail.<br><br>Finally, in our world, things change, sometimes very quickly. I'm here for you. I can update your software as needs change in a timely manner. I’m a real person just a phone call away."
 image = "img/20230119_213110067_iOS.jpg" 
 
 # Call to Action
 [params.cta]
 enable = true
-title = "DO THESE STORIES RESONATE WITH YOU? PERHAPS I CAN HELP"
+title = "IF YOUR LOOKING TO GENERATE SOME TIME, PERHAPS I CAN HELP:"
 content = ""
 linkPhoneText = "509-881-8762"
 linkPhone = "5098818762"
@@ -87,7 +87,7 @@ linkEmail = "mailto:dan@deepwatertechnologies.com"
 [params.portfolio]
 enable = true
 title = "WHAT I DO"
-subtitle = "I've found that when I tell people what I do, I often get some pretty blank stares.  Instead, let me paint you a few pictures I hope you can relate with."
+subtitle = "Instead of me trying to explain it, why don’t I tell you a few stories of people I’ve helped."
 
 [params.service]
 enable = true

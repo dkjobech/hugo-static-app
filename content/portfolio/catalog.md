@@ -15,6 +15,6 @@ category: ["web", "signup", "reporting"]
 
 A local school district was using an outdated software solution to manage continuing education classes for their faculty and staff. The district was not able to track current metrics and, in some cases, were not even compliant with state requirements. 
 
-I analyzed the existing software against the changes that needed to be made and determined it would be more cost-effective to rewrite the program in modern tools not only providing the necessary functionality, but also increasing the robustness and security of the application.  In addition, they would be able to make changes and add new features and capabilities as time went on.  
+After analyzing the existing software against the changes that needed to be made, I determined it would be more cost-effective to rewrite the program in modern tools that would not only provide the necessary functionality, but would also increase the robustness and security of the application. In addition, they would be able to make changes and add new features as time went on.    
 
-Five years later I am still supporting their application and each year we update and add new features that improves their workflow.
+The new application is now available via the desktop or phone, provides secure access for both administrators and faculty, improves the administrator’s workflow and most importantly can be updated as needs change. Five years later I am still supporting their application and make updates on a yearly basis that improve their workflow.
