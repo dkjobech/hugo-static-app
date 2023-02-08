@@ -2,7 +2,7 @@
 title: Testing, testing, 1, 2, 3
 type: portfolio
 description : Testing, testing, 1, 2, 3
-caption: Mobile/web hybrid
+caption: Mobile/web hybrid field data
 image: https://img.icons8.com/external-smashingstocks-detailed-outline-smashing-stocks/300/3095db/external-pipeline-industrial-production-factory-automation-smashingstocks-detailed-outline-smashing-stocks.png
 category: ["mobile, web, Web page automation, simple scheduling"]
 
