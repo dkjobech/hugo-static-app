@@ -38,6 +38,11 @@ nav a img{
     max-width: 50%;  
 }
 
+.works{
+    padding: 110px 0;
+    background: #f0f0f0
+}
+
 .work-single-content ul {
     margin: 30px 35px; 
 }
