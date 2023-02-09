@@ -158,6 +158,10 @@ figure figcaption h4 a{
         padding: 0 40px;
     }
 
+    #about .block img{
+        max-width: 80%;
+    padding-left: 20%;
+    }
 }
 
 @media only screen and (min-width:1200px) {
@@ -167,12 +171,17 @@ figure figcaption h4 a{
     }
 
     #works .row{
-        padding-left: 145px;
+        padding-left: 75px;
+        padding-right: 75px;
     }
 
-    #works .col-md-6 {
-        padding: 0 40px;
-        margin: 0 -20px 0 -20px
+    figure figcaption{
+        padding: 20px 75px
+    }
+
+    #about p{
+        margin-left: 50px;
+        margin-top: 72px
     }
 }
 
