@@ -21,17 +21,22 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Services"
+name = "What I do"
+pre = "#"
+url = "wid"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
 pre = "#"
 url = "works"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Contact"
 pre = "#"
 url = "call-to-action" 
-weight = 6
-
+weight = 5
 # Site Params
 [params]
 home = "Home"
@@ -50,7 +55,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = "img/lake-large-small.jpg" 
 heading = "HI, MY NAME IS DAN & I AM A"
-description = "WITH MORE THAN 25 YEARS EXPERIENCE, I'VE BUILT CUSTOM SOFTWARE FOR LARGE AND SMALL COMPANIES ALIKE. I BRING WIDELEY VARIED EXPERIENCE TO HELP YOU TAKE BACK TIME TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
+description = "I CREATE CUSTOM SOFTWARE APPLICATIONS FOR SMALL TO MEDIUM-SIZED BUSINESSES THAT AUTOMATE REPETITIVE, MANUAL TASKS, IMPROVE WORKFLOW, AND INCREASE ACCURACY THAT GIVES YOU  TIME BACK TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
 # button
 btn = false
 
@@ -70,7 +75,7 @@ title = "TIME GENERATOR"
 [params.about]
 enable = true
 title = "ABOUT ME"
-content = "Hello, I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA, and really enjoy working with small to medium-sized businesses where I get to meet the people who will use the software I build. Working with them to build something that makes their work life MUCH easier is what it’s all about.<br><br>When I say 'take back time', it really is true. We all have repetitive, necessary tasks that are part of running our business and these can often be very manual and time-consuming.  Making software that allows a computer to handle those tasks literally gives you time back to focus on your priorities.<br><br>I like to work closely with my customers. It starts with discussions about how your business operates,  identifying key processes, presenting solutions, and iterating on those ideas until you like what you see. Once the design is complete, we start building.  I regularly release new versions so you can see, click, and assess the software. You are along for the ride every step of the way, not just getting postcards in the mail.<br><br>Finally, in our world, things change, sometimes very quickly. I'm here for you. I can update your software as needs change in a timely manner. I’m a real person just a phone call away."
+content = "I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA and really enjoy working directly with the people who will use the software I build. Building something that gives you more time to spend on your business priorities, is what it’s all about."
 image = "img/20230119_213110067_iOS.jpg" 
 
 # Call to Action
@@ -83,15 +88,14 @@ linkPhone = "5098818762"
 linkEmailText = "dan@deepwatertechnologies.com"
 linkEmail = "mailto:dan@deepwatertechnologies.com"
 
+[params.wid]
+enable = true
+
 # Portfolio Section On Homepage
 [params.portfolio]
 enable = true
-title = "WHAT I DO"
-subtitle = "Instead of me trying to explain it, why don’t I tell you a few stories of people I’ve helped."
-
-[params.service]
-enable = true
-title = "services stuff"
+title = "Projects"
+subtitle = "Want a little more detail or perhaps some street cred. Here are a few examples of my work."
 
 # social icon
 [[params.socialIcon]]

@@ -1,0 +1,37 @@
+{
+    "enable": "true",
+    "title": "What I do",
+    "subtitle": "Whether you need a fix to your existing system or a new application altogether, I can help you.",
+
+    "item": [
+        {
+            "name": "Analysis ",
+            "description": "I analyze your existing platform to determine if it makes sense to fix what you have or start fresh.",
+            "icon": "https://img.icons8.com/ios/50/153a55/collaboration.png"
+        },
+        {
+            "name": "Design",
+            "description": "I look at how you operate and through an iterative design process we design a custom solution that meets your business needs.",
+            "icon": "https://img.icons8.com/dotty/60/153a55/design.png"
+
+        },
+        {
+            "name": "Build",
+            "description": "Once I begin building your software, I continue to work closely with you providing weekly releases for your review and feedback.",
+            "icon": "https://img.icons8.com/ios/50/153a55/google-code.png"
+
+        },
+        {
+            "name": "Deployment and support",
+            "description": "It doesn’t end here. Even after we launch your application, I’m here to support you. I regularly monitor your software and make sure that it is working correctly.",
+            "icon": "https://img.icons8.com/carbon-copy/70/153a55/phone.png"
+
+        },
+        {
+            "name": "Updates and new features",
+            "description": "As your business evolves, we can update your application to continue improving your workflow.",
+            "icon": "https://img.icons8.com/ios/50/153a55/wrench--v1.png"
+
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 ---
-title: "Beyond (Ex)cel walls"
+title: "Nannies, taxes and Excel"
 type: portfolio
 description : "Beyond (Ex)cel walls"
 caption: Online payroll
