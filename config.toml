@@ -53,7 +53,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "img/lake-large-small.jpg" 
+bgImage = "img/lake-large.jpg" 
 heading = "HI, MY NAME IS DAN & I AM A"
 description = "I CREATE CUSTOM SOFTWARE APPLICATIONS FOR SMALL TO MEDIUM-SIZED BUSINESSES THAT AUTOMATE REPETITIVE, MANUAL TASKS, IMPROVE WORKFLOW, AND INCREASE ACCURACY THAT GIVES YOU  TIME BACK TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
 # button

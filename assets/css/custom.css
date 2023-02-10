@@ -122,6 +122,9 @@ figure figcaption h4 a{
     color: #3095d8;
 }
 
+p, .section-heading p, #feature p, #wid p {
+    font-size: 18px;
+}
 .img-fluid{
     padding: 30px 0 0 80px;
     width: 75%;
@@ -141,16 +144,17 @@ figure figcaption h4 a{
 }
 
 .section-heading .title{
-    color: #309fd8
+    color: #309fd8;
+    font-weight: bold;
 }
 
 
 .item0, .item3{
-    background: #309fd8;
+    background: #153a55;
 }
 
 .item0 h4, .item0 p, .item3 h4, .item4 p{
-    color : white;
+    color : #309fd8;
 }
 
 @media only screen and (max-width:1000px) {
