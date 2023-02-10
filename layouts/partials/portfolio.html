@@ -10,7 +10,7 @@
 			{{ range $index, $element:= where .Site.RegularPages "Type" "portfolio" }}
 			<div class="col-lg-6 col-md-6">
 				{{ $delay := mul $index 25 }}
-				<figure class="wow fadeInLeft animated portfolio-item item{{ $index }}" data-wow-duration="500ms"
+				<figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms"
 					data-wow-delay="{{ $delay }}ms">
 					<a href="{{ .Permalink }}">
 					<div class="img-wrapper">

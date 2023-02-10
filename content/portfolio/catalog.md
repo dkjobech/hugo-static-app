@@ -3,7 +3,7 @@ title: "Teachers go to school too"
 type: portfolio
 description : "This is meta description"
 caption: Online course catalog
-image: https://img.icons8.com/carbon-copy/300/3095db/teacher.png
+image: https://img.icons8.com/carbon-copy/300/ffffff/teacher.png
 category: ["web", "signup", "reporting"]
 
 #date: 2018-07-12T16:53:54+06:00
