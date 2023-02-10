@@ -3,7 +3,7 @@ title: "The wheels on the bus"
 type: portfolio
 description : "This is meta description"
 caption: Web automation
-image: https://img.icons8.com/dotty/300/3095db/bus2.png
+image: https://img.icons8.com/dotty/300/ffffff/bus2.png
 category: ["web","web site automation"]
 
 #liveLink: https://www.themefisher.com
