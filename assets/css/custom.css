@@ -178,6 +178,10 @@ p, .section-heading p, #feature p, #wid p {
         max-width: 80%;
     padding-left: 20%;
     }
+
+    #about p{
+        text-align: center;
+    }
 }
 
 @media only screen and (min-width:1200px) {
