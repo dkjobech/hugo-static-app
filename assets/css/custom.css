@@ -127,8 +127,16 @@ p, .section-heading p, #wid p {
     color: #f0f0f0
 }
 
+.work-single-content p{
+    color: #153a55;
+}
+
 #about p, #works p{
     color: #153a55;
+}
+
+#works .col-lg-6 p{
+    color: #f0f0f0;
 }
 
 #feature p{
@@ -181,7 +189,15 @@ p, .section-heading p, #wid p {
     }
 
     #works .col-md-6 {
-        padding: 0 40px;
+        padding: 0 80px;
+    }
+
+    #works p{
+        text-align: center;
+    }
+
+    .work-single-content p{
+        text-align: center;
     }
 
     #about .block img{
@@ -190,6 +206,14 @@ p, .section-heading p, #wid p {
     }
 
     #about p{
+        text-align: center;
+    }
+
+    .img-fluid{
+        padding: 30px 0 0 50px
+    }
+
+    .portfolio-item h4{
         text-align: center;
     }
 }
