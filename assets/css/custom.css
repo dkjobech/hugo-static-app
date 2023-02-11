@@ -198,7 +198,7 @@ p, .section-heading p, #wid p {
     #hero-area::before{
         background-image: url(https://img.icons8.com/dotty/300/153a55/delivery-time--v2.png);
         background-position-x: -75px;
-        background-position-y: 320px;
+        background-position-y: 100%;
         background-size: 260px;
     }
 
