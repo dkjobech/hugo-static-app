@@ -197,8 +197,9 @@ p, .section-heading p, #wid p {
 
     #hero-area::before{
         background-image: url(https://img.icons8.com/dotty/300/153a55/delivery-time--v2.png);
-        background-position-x: -30%;
-        background-position-y: 100%;
+        background-position-x: -75px;
+        background-position-y: 320px;
+        background-size: 260px;
     }
 
     #works .col-md-6 {
@@ -229,8 +230,9 @@ p, .section-heading p, #wid p {
    
     #hero-area::before{
         background-image: url(https://img.icons8.com/dotty/600/153a55/delivery-time--v2.png);
-        background-position-x: -25%;
-        background-position-y: -10%;
+        background-position-x: -200px;
+        background-position-y: 210px;
+        background-size: 620px;
     }
     
     #about .block img {
