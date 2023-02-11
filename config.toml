@@ -77,7 +77,7 @@ title = "SANITY SAVER"
 enable = true
 title = "ABOUT ME"
 content = "I've spent the last 25 years building custom business applications for large and small businesses around the northwest. I now live in Wenatchee WA and really enjoy working directly with the people who will use the software I build. Building something that gives you more time to spend on your business priorities, is what it’s all about."
-image = "img/20230119_213110067_iOS.jpg" 
+image = "img/PXL_20220623_151955846.MP.jpg" 
 
 # Call to Action
 [params.cta]
