@@ -1,8 +1,6 @@
 ---
-title: "Nannies, taxes and Excel"
+title: Online payroll
 type: portfolio
-description : "Beyond (Ex)cel walls"
-caption: Online payroll
 image: https://img.icons8.com/dotty/300/ffffff/children.png
 category: ["web","data","reporting","automation"]
 

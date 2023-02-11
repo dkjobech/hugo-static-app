@@ -53,13 +53,15 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "img/time-management-deadline-business-timing-concept-circle-clock-icon-horizontal-banner-vector-illustration-140897128.jpg" 
+bgImage = "https://img.icons8.com/dotty/300/ffffff/delivery-time--v2.png" 
 heading = "HI, MY NAME IS DAN & I AM A"
 description = "I CREATE CUSTOM SOFTWARE APPLICATIONS FOR SMALL TO MEDIUM-SIZED BUSINESSES THAT AUTOMATE REPETITIVE, MANUAL TASKS, IMPROVE WORKFLOW, AND INCREASE ACCURACY THAT GIVES YOU  TIME BACK TO FOCUS ON WHAT IS REALLY IMPORTANT TO YOU, RUNNING YOUR BUSINESS."
 # button
 btn = false
 
 # flip text
+[[params.banner.flipText]]
+title = "TIME GENERATOR"
 [[params.banner.flipText]]
 title = "DEVELOPER"
 [[params.banner.flipText]]
@@ -68,8 +70,7 @@ title = "LISTENER"
 title = "PROBLEM SOLVER"
 [[params.banner.flipText]]
 title = "SANITY SAVER"
-[[params.banner.flipText]]
-title = "TIME GENERATOR"
+
 
 # Homepage About Section
 [params.about]

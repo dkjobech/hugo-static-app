@@ -1,8 +1,6 @@
 ---
-title: "The wheels on the bus"
+title: "Web scheduling"
 type: portfolio
-description : "This is meta description"
-caption: Web automation
 image: https://img.icons8.com/dotty/300/ffffff/bus2.png
 category: ["web","web site automation"]
 

@@ -15,12 +15,20 @@
     color: #ecf7fb;
 }
 
+#hero-area {
+    background: #309fd8;
+}
 #hero-area::before{
-    background: rgba(21, 58, 85, .3);
+    background: rgba(255,255,255,0);
+    background-image: url(https://img.icons8.com/dotty/600/153a55/delivery-time--v2.png);
+    background-repeat: no-repeat;
+    background-position-x: -158px;
+    background-position-y: -13px;
+   
 }
 
 .cd-headline.slide .cd-words-wrapper{
-    color: #309fd8;
+    color: #153a55;
 }
 
 .navbar .nav-item .nav-link {
@@ -118,7 +126,7 @@ nav a img{
   }
 
 
-figure figcaption h4 a{
+figure figcaption h4{
     color: #3095d8;
 }
 
@@ -144,7 +152,7 @@ p, .section-heading p, #wid p {
 }
 
 .img-fluid{
-    padding: 30px 0 0 80px;
+    padding: 30px 0 0 54px;
     width: 75%;
 }
 
@@ -194,9 +202,6 @@ p, .section-heading p, #wid p {
     #works .col-md-6 {
         padding: 0 80px;
     }
-
-
-
     .work-single-content p{
         text-align: center;
     }
@@ -209,8 +214,7 @@ p, .section-heading p, #wid p {
     #about p{
         text-align: center;
     }
-
-    .img-fluid{
+-fluid{
         padding: 30px 0 0 50px
     }
 
@@ -231,7 +235,8 @@ p, .section-heading p, #wid p {
     }
 
     figure figcaption{
-        padding: 20px 75px;
+        padding: 10px 23px;
+        text-align: center;
     }
 
     #about p{

@@ -1,8 +1,8 @@
 ---
-title: "Teachers go to school too"
+title: "Course catalog"
 type: portfolio
 description : "This is meta description"
-caption: Online course catalog
+
 image: https://img.icons8.com/carbon-copy/300/ffffff/teacher.png
 category: ["web", "signup", "reporting"]
 
