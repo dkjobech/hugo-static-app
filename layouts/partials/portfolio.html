@@ -8,7 +8,7 @@
 		</div>
 		<div class="row">
 			{{ range $index, $element:= where .Site.RegularPages "Type" "portfolio" }}
-			<div class="col-lg-6 col-md-6">
+			<div class="col-lg-3 col-md-6">
 				{{ $delay := mul $index 25 }}
 				<figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms"
 					data-wow-delay="{{ $delay }}ms">
