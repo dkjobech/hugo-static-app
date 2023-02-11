@@ -16,7 +16,7 @@
 }
 
 #hero-area::before{
-    background: rgba(21, 58, 85, .6);
+    background: rgba(21, 58, 85, .3);
 }
 
 .cd-headline.slide .cd-words-wrapper{
@@ -166,13 +166,16 @@ p, .section-heading p, #wid p {
     font-weight: bold;
 }
 
-
 .portfolio-item{
     background: #153a55;
 }
 
 .portfolio-item h4 {
     color : #309fd8;
+}
+
+#works p{
+    text-align: center;
 }
 
 @media only screen and (max-width:1000px) {
@@ -192,9 +195,7 @@ p, .section-heading p, #wid p {
         padding: 0 80px;
     }
 
-    #works p{
-        text-align: center;
-    }
+
 
     .work-single-content p{
         text-align: center;
