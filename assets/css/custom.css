@@ -23,6 +23,10 @@
     background-repeat: no-repeat;  
 }
 
+#hero-area h2{
+    font-weight: 400;
+}
+
 .cd-headline.slide .cd-words-wrapper{
     color: #153a55;
 }
@@ -68,10 +72,17 @@ nav a img{
 
 #feature .icon {
     background-color: #153a55;
+    height: 75px;
+    width: 75px;
+    line-height: 75px
 }
 
 #feature{
     background: #309fd8;
+}
+
+#feature .media{
+    margin: 0 0 40px;
 }
 
 #wid {
@@ -81,7 +92,7 @@ nav a img{
   }
   
   #wid .media {
-    margin: 0px 0 70px 0;
+    margin: 0 0 40px;
   }
   
   #wid .media .media-left {
@@ -182,11 +193,18 @@ p, .section-heading p, #wid p {
     text-align: center;
 }
 
+#footer p{
+    color: #153a55;
+}
+
+a:hover{
+    color: #309fd8;
+}
+
 @media only screen and (max-width:1199px) {
     nav a img {
         max-width: 100%;
     }
-
     .navbar-light .navbar-brand {
         width: 80%
     }
@@ -195,10 +213,14 @@ p, .section-heading p, #wid p {
         padding: 150px 0 50px 0;
     }
 
+    #hero-area h2{
+        font-weight: 400;
+    }
+
     #hero-area::before{
         background-image: url(https://img.icons8.com/dotty/300/153a55/delivery-time--v2.png);
         background-position-x: -75px;
-        background-position-y: 100%;
+        background-position-y: 111%;
         background-size: 260px;
     }
 
