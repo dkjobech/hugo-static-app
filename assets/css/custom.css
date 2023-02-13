@@ -155,7 +155,8 @@ p, .section-heading p, #wid p {
 }
 
 #feature p{
-    color: #f0f0f0
+    color: #f0f0f0;
+    font-size: 18px;
 }
 
 .img-fluid{
@@ -196,9 +197,16 @@ p, .section-heading p, #wid p {
 #footer p{
     color: #153a55;
 }
-
-a:hover{
+#footer .social li a {
     color: #309fd8;
+}
+
+#call-to-action a:hover, #call-to-action a {
+    color: #309fd8;
+}
+
+.phone{
+    color:#309fd8;
 }
 
 @media only screen and (max-width:1199px) {
