@@ -4,11 +4,11 @@ type: portfolio
 description : "This is meta description"
 
 image: https://img.icons8.com/carbon-copy/300/ffffff/teacher.png
-category: ["web", "signup", "reporting"]
+category: ["web", "signup", "transcript", "reporting"]
 
 #date: 2018-07-12T16:53:54+06:00
 # liveLink: https://www.themefisher.com
-# client: Julia Robertson
+# client: Julia Robertso
 # submitDate: November 20, 2017
 # location: 1201 park street, Avenue, Dhaka
 ---

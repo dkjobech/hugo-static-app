@@ -2,7 +2,7 @@
 title: "Web scheduling"
 type: portfolio
 image: https://img.icons8.com/dotty/300/ffffff/bus2.png
-category: ["web","web site automation"]
+category: ["web","web downl automation"]
 
 #liveLink: https://www.themefisher.com
 # date: 2018-07-12T16:59:54+06:00
