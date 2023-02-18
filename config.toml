@@ -81,7 +81,7 @@ image = "img/PXL_20220623_151955846.MP.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "IF YOUR LOOKING TO GENERATE SOME TIME, PERHAPS I CAN HELP."
+title = "IF YOU'RE LOOKING TO GENERATE SOME TIME, PERHAPS I CAN HELP."
 content = ""
 linkPhoneText = "509-881-8762"
 linkPhone = "5098818762"
